@@ -2,3 +2,5 @@
 The reason I used the css border is to show the orange outline of the my projects and project one
 The reason I used the css color is to show the color of each text and make it simlar to the image shown
 The reason i used the css width is to make the border resbal the image 
+the reason i used the css padding-bottom instead of padding  becausse the padding would make the text go in the middle whole it needs to be in the top left connor
+The reason i used backround color on html is to make the whole backround gray
