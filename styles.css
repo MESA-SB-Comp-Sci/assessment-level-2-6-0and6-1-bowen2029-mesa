@@ -1,4 +1,31 @@
 * {
     box-sizing: border-box;
 }
-
+html{
+    background-color: gray;
+}
+.title{
+    color: white;
+    background-color: pink;
+}
+.p1{
+    color: yellow;
+    font: bold;
+}
+.p2{
+    color: yellowgreen;
+    font: bold;
+}
+.p3{
+    color:lightblue;
+}
+.border1{
+    width:1350px;
+    display:block;
+    background-color: white;
+    padding-bottom: 20px;
+    border: 4px solid orange;
+}
+.white-text{
+    color: white;
+}
