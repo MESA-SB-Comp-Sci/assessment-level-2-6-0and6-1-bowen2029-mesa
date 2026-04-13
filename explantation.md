@@ -4,3 +4,6 @@ The reason I used the css color is to show the color of each text and make it si
 The reason i used the css width is to make the border resbal the image 
 the reason i used the css padding-bottom instead of padding  becausse the padding would make the text go in the middle whole it needs to be in the top left connor
 The reason i used backround color on html is to make the whole backround gray
+
+feedback:  
+i like how its neaat and almost the same as the maarkup.
