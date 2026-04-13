@@ -27,3 +27,11 @@ html{
 .white-text{
     color: white;
 }
+.p3{
+    color:blue;
+}
+ul{
+    color: blue;
+    padding-right: 12px;
+    margin-right: 12px;
+}
